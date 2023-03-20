@@ -7,17 +7,18 @@
  */
 int main(void)
 {
-        int i;
+int n;
+int m;
 
-	for (i = 48; i < 58; i++)
+	for (n = 48; n <= 57; n++)
 	{
-		putchar(i);
+		putchar(n);
 	}
-	for (i = 97; i < 103; i++)
+	for (m = 97; m <= 102; m++)
 		{
-			putchar(i);
+			putchar(m);
 		}
 	}
-	putchar('\n');
-	return (0);
+putchar('\n');
+return (0);
 }
