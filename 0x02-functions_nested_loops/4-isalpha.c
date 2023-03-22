@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha show 1 if the input is a
+ * main_isalpha show 1 if the input is a
  * lerrer Another cases, shows 0
  *
  * @c: The character in ASCII code
